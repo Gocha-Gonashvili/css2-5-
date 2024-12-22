@@ -1,0 +1,1762 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+padding-bottom: 203px;
+}
+
+/*headingggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg*/
+
+header {
+max-width: 1920px;
+width: 100%;
+padding: 12px 32px;
+background: #FBF9FF;
+margin-bottom: 131px;
+}
+
+#hLogo {
+    padding: 13.489px;
+    vertical-align: middle;
+    display: inline-block;
+}
+
+#navDiv {
+    margin: 0 auto;
+    vertical-align: middle;
+    display: inline-block;
+    text-align: center;
+    max-width: 1577.34px;
+    width: 100%;
+}
+
+#hUl {
+max-width: 236px;
+width: 100%;
+margin: 0 auto;
+}
+
+#hOneli {
+    vertical-align: middle;
+    display: inline-block;
+    margin-right: 20px;
+}
+
+#hTwoli {
+    vertical-align: middle;
+    display: inline-block;
+    margin-right: 20px;
+}
+
+#hThreeli {
+    vertical-align: middle;
+    display: inline-block;
+}
+
+#hOneliLink {
+    color: #323232;
+    font-family: Inter;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    text-decoration: none;
+}
+
+#hTwoliLink {
+    color: #323232;
+    font-family: Inter;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    text-decoration: none;
+}
+
+#hThreeliLink {
+    color: #323232;
+    font-family: Inter;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    text-decoration: none;
+}
+
+#hbutton {
+    padding: 8px 16px;
+    border-radius: 8px;
+    border: 1px solid #6941C6;
+    background: #6941C6;
+    color: #FFF;
+    font-family: Inter;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+/*mainnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn*/
+
+main {
+max-width: 1440px;
+width: 100%;
+margin: 0 auto;
+padding: 96px;
+background: #F1E8FF;
+}
+
+
+/*topCOntenTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT*/
+
+#topContent {
+padding: 0px 25px;
+margin-bottom: 64px;
+}
+
+#headingDiv {
+max-width: 768px;
+width: 100%;
+margin: 0 auto;
+text-align: center;
+}
+
+h1 {
+    color: #181D27;
+    text-align: center;
+    font-family: Inter;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+    margin-bottom: 20px;
+}
+
+#hText {
+    color: #535862;
+    text-align: center;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 32px;
+    margin-bottom: 32px;
+}
+
+
+
+
+
+/*cardOneeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee*/
+
+#cardOne {
+    border-radius: 16px;
+    border: 1px solid #E9EAEB;
+    background: #FFF;
+    vertical-align: middle;
+    display: inline-block;
+    margin-right: 28px;
+}
+
+#cardOneHeader {
+    padding: 40px 32px;
+}
+
+#HeadingPricingOne {
+    margin-bottom: 16px;
+    text-align: center;
+}
+
+#CardOneButtonOne {
+    padding: 4px 12px;
+    border-radius: 9999px;
+    border: 1px solid #E9D7FE;
+    background: #F9F5FF;
+    color: #6941C6;
+    text-align: center;
+    font-family: Inter;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 20px;
+}
+
+#pSPriceOne {
+    color: #181D27;
+    text-align: center;
+    font-family: Inter;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 60px;
+    letter-spacing: -0.96px;
+}
+
+#pSSupportOne {
+    color: #535862;
+    text-align: center;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+}
+#actionsOne {
+    margin-top: 16px;
+    max-width: 309.33px;
+    width: 100%;
+}
+
+#CardOneButtonTwo {
+    padding: 12px 18px;
+    border-radius: 8px;
+    border: 2px solid rgba(255, 255, 255, 0.12);
+    background: #7F56D9;
+    color: #FFF;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 24px;
+    display: block;
+    margin-bottom: 12px;  
+    width: 100%;
+}
+
+#CardOneButtonThree {
+    padding: 12px 18px;
+    border-radius: 8px;
+    border: 1px solid #D5D7DA;
+    background: #FFF;
+    color: #414651;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 24px;
+    display: block;
+    width: 309.33px;  
+}
+
+#cardOneContent {
+    padding: 0px 32px 40px 32px;
+}
+
+#checkitemOneOne {
+    margin-bottom: 16px;
+    display: block;
+}
+
+#checkimgOneOne {
+    width: 24px;
+    height: 24px;
+    margin-right: 12px;
+    vertical-align: middle;
+    border-radius: 9999px;
+}
+
+#checkTextOneOne {
+    vertical-align: middle;
+    display: inline-block;
+}
+
+#chTextOneOne {
+    color: #535862;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+    vertical-align: middle;
+    display: inline-block;
+}
+
+#checkitemOneTwo {
+    margin-bottom: 16px;
+    display: block;
+}
+
+#checkimgOneTwo {
+    width: 24px;
+    height: 24px;
+    margin-right: 12px;
+    vertical-align: middle;
+    border-radius: 9999px;
+}
+
+#checkTextOneTwo {
+    vertical-align: middle;
+    display: inline-block;
+}
+
+#chTextOneTwo {
+    color: #535862;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+    vertical-align: middle;
+    display: inline-block;
+}
+
+#checkitemOneThree {
+    margin-bottom: 16px;
+    display: block;
+}
+
+#checkimgOneThree {
+    width: 24px;
+    height: 24px;
+    margin-right: 12px;
+    vertical-align: middle;
+    border-radius: 9999px;
+}
+
+#checkTextOneThree {
+    vertical-align: middle;
+    display: inline-block;
+}
+
+#chTextOneThree {
+    color: #535862;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+    vertical-align: middle;
+    display: inline-block;
+}
+
+#checkitemOneFour {
+    margin-bottom: 16px;
+    display: block;
+}
+
+#checkimgOneFour {
+    width: 24px;
+    height: 24px;
+    margin-right: 12px;
+    vertical-align: middle;
+    border-radius: 9999px;
+}
+
+#checkTextOneFour {
+    vertical-align: middle;
+    display: inline-block;
+}
+
+#chTextOneFour {
+    color: #535862;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+    vertical-align: middle;
+    display: inline-block;
+}
+
+#checkitemOneFive {
+    display: block;
+}
+
+#checkimgOneFive {
+    width: 24px;
+    height: 24px;
+    margin-right: 12px;
+    vertical-align: middle;
+    border-radius: 9999px;
+}
+
+#checkTextOneFive {
+    vertical-align: middle;
+    display: inline-block;
+}
+
+#chTextOneFive {
+    color: #535862;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+    vertical-align: middle;
+    display: inline-block;
+}
+
+/*cardTwoooooooooooooooooooooooooooooooooooooooooooooooooooooooooo*/
+
+#cardTwo {
+    border-radius: 16px;
+    border: 1px solid #E9EAEB;
+    background: #FFF;
+    vertical-align: middle;
+    display: inline-block;
+    margin-right: 28px;
+}
+
+#cardTwoHeader {
+    padding: 40px 32px;
+}
+
+#HeadingPricingTwo {
+    margin-bottom: 16px;
+    text-align: center;
+}
+
+#CardTwoButtonOne {
+    padding: 4px 12px;
+    border-radius: 9999px;
+    border: 1px solid #E9D7FE;
+    background: #F9F5FF;
+    color: #6941C6;
+    text-align: center;
+    font-family: Inter;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 20px;
+}
+
+#pSPriceTwo {
+    color: #181D27;
+    text-align: center;
+    font-family: Inter;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 60px;
+    letter-spacing: -0.96px;
+}
+
+#pSSupportTwo {
+    color: #535862;
+    text-align: center;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+}
+#actionsTwo {
+    margin-top: 16px;
+    max-width: 309.33px;
+    width: 100%;
+}
+
+#CardTwoButtonTwo {
+    padding: 12px 18px;
+    border-radius: 8px;
+    border: 2px solid rgba(255, 255, 255, 0.12);
+    background: #7F56D9;
+    color: #FFF;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 24px;
+    display: block;
+    margin-bottom: 12px;  
+    width: 100%;
+}
+
+#CardTwoButtonThree {
+    padding: 12px 18px;
+    border-radius: 8px;
+    border: 1px solid #D5D7DA;
+    background: #FFF;
+    color: #414651;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 24px;
+    display: block;
+    width: 309.33px;
+}
+
+#cardTwoContent {
+    padding: 0px 32px 40px 32px;
+}
+
+#checkitemTwoOne {
+    margin-bottom: 16px;
+    display: block;
+}
+
+#checkimgTwoOne {
+    width: 24px;
+    height: 24px;
+    margin-right: 12px;
+    vertical-align: middle;
+    border-radius: 9999px;
+}
+
+#checkTextTwoOne {
+    vertical-align: middle;
+    display: inline-block;
+}
+
+#cardTwoContent {
+    padding: 0px 32px 40px 32px;
+}
+
+#chTextTwoOne {
+    color: #535862;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+    vertical-align: middle;
+    display: inline-block;
+}
+
+#checkitemTwoTwo {
+    margin-bottom: 16px;
+    display: block;
+}
+
+#checkimgTwoTwo {
+    width: 24px;
+    height: 24px;
+    margin-right: 12px;
+    vertical-align: middle;
+    border-radius: 9999px;
+}
+
+#checkTextTwoTwo {
+    vertical-align: middle;
+    display: inline-block;
+}
+
+#chTextTwoTwo {
+    color: #535862;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+    vertical-align: middle;
+    display: inline-block;
+}
+
+#checkitemTwoThree {
+    margin-bottom: 16px;
+    display: block;
+}
+
+#checkimgTwoThree {
+    width: 24px;
+    height: 24px;
+    margin-right: 12px;
+    vertical-align: middle;
+    border-radius: 9999px;
+}
+
+#checkTextTwoThree {
+    vertical-align: middle;
+    display: inline-block;
+}
+
+#chTextTwoThree {
+    color: #535862;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+    vertical-align: middle;
+    display: inline-block;
+}
+
+#checkitemTwoFour {
+    margin-bottom: 16px;
+    display: block;
+}
+
+#checkimgTwoFour {
+    width: 24px;
+    height: 24px;
+    margin-right: 12px;
+    vertical-align: middle;
+    border-radius: 9999px;
+}
+
+#checkTextTwoFour {
+    vertical-align: middle;
+    display: inline-block;
+}
+
+#chTextTwoFour {
+    color: #535862;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+    vertical-align: middle;
+    display: inline-block;
+}
+
+#checkitemTwoFive {
+    display: block;
+}
+
+#checkimgTwoFive {
+    width: 24px;
+    height: 24px;
+    margin-right: 12px;
+    vertical-align: middle;
+    border-radius: 9999px;
+}
+
+#checkTextTwoFive {
+    vertical-align: middle;
+    display: inline-block;
+}
+
+#chTextTwoFive {
+    color: #535862;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+    vertical-align: middle;
+    display: inline-block;
+}
+
+/*cardThreeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee*/
+
+#cardThree {
+    border-radius: 16px;
+    border: 1px solid #E9EAEB;
+    background: #FFF;
+    vertical-align: middle;
+    display: inline-block;
+}
+
+#cardThreeHeader {
+    padding: 40px 32px;
+}
+
+#HeadingPricingThree {
+    margin-bottom: 16px;
+    text-align: center;
+}
+
+#CardThreeButtonOne {
+    padding: 4px 12px;
+    border-radius: 9999px;
+    border: 1px solid #E9D7FE;
+    background: #F9F5FF;
+    color: #6941C6;
+    text-align: center;
+    font-family: Inter;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 20px;
+}
+
+#pSPriceThree {
+    color: #181D27;
+    text-align: center;
+    font-family: Inter;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 60px;
+    letter-spacing: -0.96px;
+}
+
+#pSSupportThree {
+    color: #535862;
+    text-align: center;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+}
+#actionsThree {
+    margin-top: 16px;
+    max-width: 309.33px;
+    width: 100%;
+}
+
+#CardThreeButtonTwo {
+    padding: 12px 18px;
+    border-radius: 8px;
+    border: 2px solid rgba(255, 255, 255, 0.12);
+    background: #7F56D9;
+    color: #FFF;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 24px;
+    display: block;
+    margin-bottom: 12px;
+    
+    width: 100%;
+}
+
+#CardThreeButtonThree {
+    padding: 12px 18px;
+    border-radius: 8px;
+    border: 1px solid #D5D7DA;
+    background: #FFF;
+    color: #414651;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 24px;
+    display: block;
+    width: 309.33px;
+    
+}
+
+#cardThreeContent {
+    padding: 0px 32px 40px 32px;
+}
+
+#checkitemThreeOne {
+    margin-bottom: 16px;
+    display: block;
+}
+
+#checkimgThreeOne {
+    width: 24px;
+    height: 24px;
+    margin-right: 12px;
+    vertical-align: middle;
+    border-radius: 9999px;
+}
+
+#checkTextThreeOne {
+    vertical-align: middle;
+    display: inline-block;
+}
+
+#cardThreeContent {
+    padding: 0px 32px 40px 32px;
+}
+
+#chTextThreeOne {
+    color: #535862;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+    vertical-align: middle;
+    display: inline-block;
+}
+
+#checkitemThreeTwo {
+    margin-bottom: 16px;
+    display: block;
+}
+
+#checkimgThreeTwo {
+    width: 24px;
+    height: 24px;
+    margin-right: 12px;
+    vertical-align: middle;
+    border-radius: 9999px;
+}
+
+#checkTextThreeTwo {
+    vertical-align: middle;
+    display: inline-block;
+}
+
+#chTextThreeTwo {
+    color: #535862;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+    vertical-align: middle;
+    display: inline-block;
+}
+
+#checkitemThreeThree {
+    margin-bottom: 16px;
+    display: block;
+}
+
+#checkimgThreeThree {
+    width: 24px;
+    height: 24px;
+    margin-right: 12px;
+    vertical-align: middle;
+    border-radius: 9999px;
+}
+
+#checkTextThreeThree {
+    vertical-align: middle;
+    display: inline-block;
+}
+
+#chTextThreeThree {
+    color: #535862;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+    vertical-align: middle;
+    display: inline-block;
+}
+
+#checkitemThreeFour {
+    margin-bottom: 16px;
+    display: block;
+}
+
+#checkimgThreeFour {
+    width: 24px;
+    height: 24px;
+    margin-right: 12px;
+    vertical-align: middle;
+    border-radius: 9999px;
+}
+
+#checkTextThreeFour {
+    vertical-align: middle;
+    display: inline-block;
+}
+
+#chTextThreeFour {
+    color: #535862;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+    vertical-align: middle;
+    display: inline-block;
+}
+
+#checkitemThreeFive {
+    display: block;
+}
+
+#checkimgThreeFive {
+    width: 24px;
+    height: 24px;
+    margin-right: 12px;
+    vertical-align: middle;
+    border-radius: 9999px;
+}
+
+#checkTextThreeFive {
+    vertical-align: middle;
+    display: inline-block;
+}
+
+#chTextThreeFive {
+    color: #535862;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+    vertical-align: middle;
+    display: inline-block;
+}
+
+
+/* middleeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee*/
+#middleContent {
+    padding: 32px 0px;
+    border-radius: 24px;
+    background: #FFF;
+    margin-top: 64px;
+    margin-bottom: 64px;
+}
+
+#headingAndSupportingText {
+max-width:768px;
+margin: 0 auto;
+text-align: center;
+    
+}
+
+h2 {
+    color: #181D27;
+    text-align: center;
+    font-family: Inter;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: 44px;
+    margin-bottom: 20px;
+}
+
+#supportingMiddle {
+    color: #535862;
+    text-align: center;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 28px;
+    width: 768px;
+ margin-bottom: 32px;
+}
+
+#middleContentFAQ {
+    max-width: 768px;
+    margin: 0 auto;
+
+}
+
+/*faqOneeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee*/
+
+#FAQOne {
+    padding: 32px;
+    border-radius: 16px;
+    background: #E4E4E4;
+    margin-bottom: 16px;
+    width: 768px;
+    height: 168px;
+}
+
+#arroWdivOne {
+    padding-top: 2px;
+    margin-right: 22px;
+    display: inline-block;
+    vertical-align: top;  
+}
+
+#arrowOne {
+    width: 24px;
+    height: 24px;
+}
+
+#FAQOneText {
+    width: 650px;
+    vertical-align: middle;
+    display: inline-block;
+}
+
+#FAQOneTextDiv {
+    height: 104px;
+    display: inline-block;
+    vertical-align: middle;
+    widht: 650px;
+}
+
+#FOneHeadDiv {
+    width: 650px;
+    margin-bottom: 8px;
+}
+
+#FOneHead {
+    color: #181D27;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+}
+
+#FOneTextDiv {
+    width: 650px;
+    height: 72px;
+}
+
+#FOneText {
+    color: #535862;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+}
+
+/*faqTWoooooooooooooooooooooooooooooooo*/
+
+
+#FAQTwo {
+    padding: 32px;
+    border-radius: 16px;
+    border: 2px solid #FF2323;
+    background: #FFE5E5;
+    margin-bottom: 16px;
+    width: 768px;
+    height: 168px;
+}
+
+#arroWdivTwo {
+    padding-top: 2px;
+    margin-right: 22px;
+    display: inline-block;
+    vertical-align: top;   
+}
+
+#arrowTwo {
+    width: 24px;
+    height: 24px;
+}
+
+#FAQTwoText {
+    width: 650px;
+    vertical-align: middle;
+    display: inline-block;
+}
+
+#FAQTwoTextDiv {
+    height: 104px;
+    display: inline-block;
+    vertical-align: middle;
+    widht: 650px;
+}
+
+#FTwoHeadDiv {
+    width: 650px;
+    margin-bottom: 8px;
+}
+
+#FTwoHead {
+    color: #181D27;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+}
+
+#FTwoTextDiv {
+    width: 650px;
+    height: 72px;
+}
+
+#FTwoText {
+    color: #535862;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+}
+
+/*faqthreeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee*/
+
+#FAQThree {
+    padding: 32px;
+    border-radius: 16px;
+    background: #E9D7FF;
+    margin-bottom: 16px;
+    width: 768px;
+    height: 168px;
+}
+
+#arroWdivThree {
+    padding-top: 2px;
+    margin-right: 22px;
+    display: inline-block;
+    vertical-align: top;  
+}
+
+#arrowThree {
+    width: 24px;
+    height: 24px;
+}
+
+#FAQThreeText {
+    width: 650px;
+    vertical-align: middle;
+    display: inline-block;
+}
+
+#FAQThreeTextDiv {
+    height: 104px;
+    display: inline-block;
+    vertical-align: middle;
+    widht: 650px;
+}
+
+#FThreeHeadDiv {
+    width: 650px;
+    margin-bottom: 8px;
+}
+
+#FThreeHead {
+    color: #181D27;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+}
+
+#FThreeTextDiv {
+    width: 650px;
+    height: 72px;
+}
+
+#FThreeText {
+    color: #535862;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+}
+
+
+/*faqfourrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr*/
+
+#FAQFour {
+    padding: 32px;
+    border-radius: 16px;
+    background: #F7F4FF;
+    margin-bottom: 16px;
+    width: 768px;
+    height: 168px;
+}
+
+#arroWdivFour {
+    padding-top: 2px;
+    margin-right: 22px;
+    display: inline-block;
+    vertical-align: top; 
+}
+
+#arrowFour {
+    width: 24px;
+    height: 24px;
+}
+
+#FAQFourText {
+    width: 650px;
+    vertical-align: middle;
+    display: inline-block;
+}
+
+#FAQFourTextDiv {
+    height: 104px;
+    display: inline-block;
+    vertical-align: middle;
+    widht: 650px;
+}
+
+#FFourHeadDiv {
+    width: 650px;
+    margin-bottom: 8px;
+}
+
+#FFourHead {
+    color: #181D27;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+}
+
+#FFourTextDiv {
+    width: 650px;
+    height: 72px;
+}
+
+#FFourText {
+    color: #535862;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+}
+
+
+/*faqfiveeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee*/
+
+#FAQFive {
+    padding: 32px;
+    border-radius: 16px;
+    border: 4px solid #326DFF;
+    background: #DCE6FF;
+    margin-bottom: 16px;
+    width: 768px;
+    height: 168px;
+}
+
+#FAQFiveContent {
+width: 768px;
+height: 168px;
+}
+
+#arroWdivFive {
+    padding-top: 2px;
+    margin-right: 22px;
+    display: inline-block;
+    vertical-align: top; 
+}
+
+#arrowFive {
+    width: 24px;
+    height: 24px;
+}
+
+#FAQFiveText {
+    width: 650px;
+    vertical-align: middle;
+    display: inline-block;
+}
+
+#FAQFiveTextDiv {
+    height: 100px;
+    display: inline-block;
+    vertical-align: middle;
+    widht: 650px;
+}
+
+#FFiveHeadDiv {
+    width: 650px;
+    margin-bottom: 8px;
+}
+
+#FFiveHead {
+    color: #181D27;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+}
+
+#FFiveTextDiv {
+    width: 650px;
+    height: 72px;
+}
+
+#FFiveText {
+    color: #535862;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+}
+
+/*faqsixxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx*/
+#FAQSix {
+    padding: 32px;
+    border-radius: 16px;
+    background: #FFD5E7;
+    width: 768px;
+    height: 168px;
+}
+
+#arroWdivSix {
+    padding-top: 2px;
+    margin-right: 22px;
+    display: inline-block;
+    vertical-align: top;  
+}
+
+#arrowSix {
+    width: 24px;
+    height: 24px;
+}
+
+#FAQSixText {
+    width: 650px;
+    vertical-align: middle;
+    display: inline-block;
+}
+
+#FAQSixTextDiv {
+    height: 104px;
+    display: inline-block;
+    vertical-align: middle;
+    widht: 650px;
+}
+
+#FSixHeadDiv {
+    width: 650px;
+    margin-bottom: 8px;
+}
+
+#FSixHead {
+    color: #181D27;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+}
+
+#FSixTextDiv {
+    width: 650px;
+    height: 72px;
+}
+
+#FSixText {
+    color: #535862;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+}
+/*bottomContenttttttttttttttttttttttttttttttttttttttttttttt*/
+
+
+#bottomContent {
+    border-radius: 24px;
+    background: #FFF;
+    padding: 32px 0px;
+    max-width: 1248px;
+    margin: 0 auto;
+
+}
+
+#bottomHeadingConteiner {
+    padding: 0px 32px;
+    margin-bottom: 64px;
+}
+
+#bottomHeading {
+    color: #181D27;
+    text-align: center;
+    font-family: Inter;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 44px;
+    letter-spacing: -0.8px;
+    margin-bottom: 20px;
+}
+
+#bottomSupporting {
+    color: #535862;
+    text-align: center;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+}
+
+#bottomContentConteiner {
+    padding: 0px 32px;
+    margin-bottom: 32px;
+}
+
+/*toppersonssssssssssssssssss*/
+
+
+#topPersons {
+    width: 1184px;
+    margin-bottom: 24px;
+}
+
+/*personONeeeeeeeeeeeeeeeeeeee*/
+
+
+#personCardOne {
+    height: 256px;
+    width: 570px;
+    padding: 32px;
+    border-radius: 12px;
+    border: 1px solid #E9EAEB;
+    background: #FFF;
+    display: inline-block;
+    margin-right: 37px;
+    vertical-align: middle;
+}
+
+#personOneHeader {
+    margin-bottom: 80px;
+}
+
+#personOneHeaderTexs {
+    color: #181D27;
+    font-family: Inika;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 30px;
+    display: inline-block;
+}
+
+#aboutPersonOne {
+    display: inline-block;
+}
+
+#aboutOne {
+    margin-right: 12px;
+    vertical-align: middle;
+    display: inline-block;
+}
+
+#avatarOne {
+    width: 48px;
+    height: 48px;
+    border-radius: 9999px;
+    background: lightgray 50% #E9DCBB;
+    margin-right: 12px;
+    vertical-align: middle;
+}
+
+#contactInfoOneMom {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+#contactInfoOne {
+    display: block;
+}
+
+#nameOne {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+#personNameOne {
+    color: #181D27;
+    font-family: Inter;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 28px;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+#verifiedOne {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+#pVOne {
+    width: 16px;
+    height: 16px;
+    margin-left: 4px;
+    vertical-align: middle;
+}
+
+#positionOne {
+    display: block;
+}
+
+#companyLogoOne {
+    display: inline-block;
+}
+
+#companyOne {
+    width: 134px;
+    height: 32px;
+}
+
+
+/*personTWWWWWWWWWWWWWWWWWWOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO*/
+
+
+
+#personCardTwo {
+    height: 256px;
+    width: 570px;
+    padding: 32px;
+    border-radius: 12px;
+    border: 1px solid #E9EAEB;
+    background: #FFF;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+#personTwoHeader {
+    margin-bottom: 80px;
+}
+
+#personTwoHeaderTexs {
+    color: #181D27;
+    font-family: Inika;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 30px;
+    display: inline-block;
+}
+
+#aboutPersonTwo {
+    display: inline-block;
+}
+
+#aboutTwo {
+    margin-right: 12px;
+    vertical-align: middle;
+    display: inline-block;
+}
+
+#avatarTwo {
+    width: 48px;
+    height: 48px;
+    border-radius: 9999px;
+    background: lightgray 50% #E9DCBB;
+    margin-right: 12px;
+    vertical-align: middle;
+}
+
+#contactInfoTwoMom {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+#contactInfoTwo {
+    display: block;
+}
+
+#nameTwo {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+#personNameTwo {
+    color: #181D27;
+    font-family: Inter;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 28px;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+#verifiedTwo {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+#pVTwo {
+    width: 16px;
+    height: 16px;
+    margin-left: 4px;
+    vertical-align: middle;
+}
+
+#positionTwo {
+    display: block;
+}
+
+#companyLogoTwo {
+    display: inline-block;
+}
+
+#companyTwo {
+    width: 134px;
+    height: 32px;
+}
+
+#topPersons {
+    width: 1184px;
+}
+
+
+/*personTHREEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE*/
+
+#personCardThree {
+    height: 256px;
+    width: 570px;
+    padding: 32px;
+    border-radius: 12px;
+    border: 1px solid #E9EAEB;
+    background: #FFF;
+    display: inline-block;
+    margin-right: 37px;
+    vertical-align: middle;
+}
+
+#personThreeHeader {
+    margin-bottom: 80px;
+}
+
+#personThreeHeaderTexs {
+    color: #181D27;
+    font-family: Inika;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 30px;
+    display: inline-block;
+}
+
+#aboutPersonThree {
+    display: inline-block;
+}
+
+#aboutThree {
+    margin-right: 12px;
+    vertical-align: middle;
+    display: inline-block;
+}
+
+#avatarThree {
+    width: 48px;
+    height: 48px;
+    border-radius: 9999px;
+    background: lightgray 50% #E9DCBB;
+    margin-right: 12px;
+    vertical-align: middle;
+}
+
+#contactInfoThreeMom {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+#contactInfoThree {
+    display: block;
+}
+
+#nameThree {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+#personNameThree {
+    color: #181D27;
+    font-family: Inter;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 28px;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+#verifiedThree {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+#pVThree {
+    width: 16px;
+    height: 16px;
+    margin-left: 4px;
+    vertical-align: middle;
+}
+
+#positionThree {
+    display: block;
+}
+
+#companyLogoThree {
+    display: inline-block;
+}
+
+#companyThree {
+    width: 134px;
+    height: 32px;
+}
+
+/*personFOURRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRR*/
+
+
+#personCardFour {
+    height: 256px;
+    width: 570px;
+    padding: 32px;
+    border-radius: 12px;
+    border: 1px solid #E9EAEB;
+    background: #FFF;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+#personFourHeader {
+    margin-bottom: 80px;
+}
+
+#personFourHeaderTexs {
+    color: #181D27;
+    font-family: Inika;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 30px;
+    display: inline-block;
+}
+
+#aboutPersonFour {
+    display: inline-block;
+}
+
+#aboutFour {
+    margin-right: 12px;
+    vertical-align: middle;
+    display: inline-block;
+}
+
+#avatarFour {
+    width: 48px;
+    height: 48px;
+    border-radius: 9999px;
+    background: lightgray 50% #E9DCBB;
+    margin-right: 12px;
+    vertical-align: middle;
+}
+
+#contactInfoFourMom {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+#contactInfoFour {
+    display: block;
+}
+
+#nameFour {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+#personNameFour {
+    color: #181D27;
+    font-family: Inter;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 28px;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+#verifiedFour {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+#pVFour {
+    width: 16px;
+    height: 16px;
+    margin-left: 4px;
+    vertical-align: middle;
+}
+
+#positionFour {
+    display: block;
+}
+
+#companyLogoFour {
+    display: inline-block;
+}
+
+#companyFour {
+    width: 134px;
+    height: 32px;
+}
